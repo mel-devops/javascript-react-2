@@ -14,7 +14,6 @@ export const RandomNumber = () => {
       setNumber(Math.floor(Math.random() * 10))
     }
 
-
     return (
 
         <div>
