@@ -7,6 +7,7 @@ import React, {useState} from "react";
 
 
 export const RandomNumber = () => {
+    
     let [number, setNumber] = useState(0)
 
     const onHandleClick = () => {
