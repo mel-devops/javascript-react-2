@@ -2,9 +2,9 @@
 //Create Generate Button
 //when button is clicked random number between 1-10 is displayed
 //call RanddomNumber compnent in main
+//end
 
 import React, {useState} from "react";
-
 
 export const RandomNumber = () => {
     
